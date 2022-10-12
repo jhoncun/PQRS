@@ -53,7 +53,7 @@
                         </div>
             </div>
             <div>
-                <a href="index.php" class="nav-link"><--Inicio</a>
+                <a href="../index.php" class="nav-link"><--Inicio</a>
             </div>
         </form>
 

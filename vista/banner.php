@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img src="img/meme.jpg" alt="" class="rounded"></div>
+                    <img src="img/INGVECOM_LOGO.png" alt="" class="rounded"></div>
             </div>
         </div>
     </div>  

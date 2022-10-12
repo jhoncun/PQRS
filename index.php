@@ -7,12 +7,12 @@
     <title>Bienvenidos</title>
 </head>
 <body>
-   <?php include 'banner.php' ?> 
+   <?php include 'vista/banner.php' ?> 
 <div class="card text-center">
     <h4>Bienvenido</h4>
 </div>
 <div>
-    <?php include 'navegacion.php'?>
+    <?php include 'vista/navegacion.php'?>
 </div>
 
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/cyborg/bootstrap.min.css" integrity="sha384-nEnU7Ae+3lD52AK+RGNzgieBWMnEfgTbRHIwEvp1XXPdqdO6uLTd/NwXbzboqjc2" crossorigin="anonymous">
